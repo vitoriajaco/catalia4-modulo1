@@ -1,0 +1,83 @@
+1 - FAÇA UM ALGORITMO PARA FAZER CAFÉ:
+
+1. Pegue uma panela com capacidade para 1 litro de água em formato de chaleira;
+2. Verifique se há água na torneira. Tem água?
+a) NÃO HÁ ÁGUA: Não tem como fazer café;
+b) TEM ÁGUA: Prossiga os passos;
+3. Abra a torneira e coloque 1 litro de água na panela
+4. Feche a torneira 
+4. Coloque a panela no fogão e ligue o fogo;
+5. Espere a água ferver;
+6. Quando a água ferver, apague o fogo 
+7. Pegue o pó de café;
+7. Coloque duas colheres de café na água e mexa; Reserve;
+8. Vá até o armário e pegue a garrafa térmica e o coador de café;
+9. Abra a garrafa térmica e coloque sobre a boca aberta da garrafa o coador;
+10. Despeje o café devagar sob o coador até que não sobre nenhum líquido ou que a
+garrafa atinja a capacidade máxima;
+11. Coloque a panela na pia para que possa ser lavada;
+12. Despeje o pó remanescente do coador dentro da lixeira;
+13. Feche a garrafa;
+14. Para servir, abra a garrafa e sirva o café em uma xícara ou copo;
+
+2 - FAÇA UM ALGORITMO PARA FRITAR UM OVO
+1. Abra o armário e procure por uma frigideira;
+2. Pegue a frigideira e coloque sob o fogão;
+3. Vá até a geladeira e pegue um ovo.
+4. Tem ovo?
+a) Sim: Pegue um ovo e deixe numa bancada próximo ao fogão de uma
+maneira que ele não role e caia no chão;
+b) Não: Não tem como fritar ovo;
+5. Pegue uma manteiga ou azeite coloque sobre a bancada mais próxima do fogão,
+ligue o fogo e coloque a frigideira em cima;
+6. Se escolher azeite: Abra o azeite e coloque um pequeno fio de azeite na frigideira e
+espere esquentar um pouco, enquanto isso pegue uma colher de sopa;
+
+7. Se escolher manteiga: Pegue uma colher de sopa, abra a manteiga e pegue um
+pouco de manteiga (aproximadamente 20g) e despeje na frigideira e espere
+esquentar um pouco.
+8. Feche o recipiente azeite ou manteiga.
+9. Bata levemente com a colher no ovo para que possa rachar e facilitar a abertura
+10. Com as duas mãos abra delicadamente o ovo sobre a frigideira.
+11. Se quiser ovo mexido, mexa o ovo enquanto frita.
+12. Se não quiser mexido apenas aguarde alguns minutos enquanto o ovo frita;
+13. Ao verificar que o ovo está no ponto desejado desligue o fogo;
+14. Sirva em um prato pequeno, despejando o conteúdo da panela em um prato;
+
+3 - Faça um algoritmo para zerar uma fila de banco:
+1. Verifique a quantidade de senhas retiradas do sistema;
+2. Há atendente livre?
+a) Se não: aguarde um atendente ficar livre;
+b) Se sim: Verifique o número que foi retirado primeiro e chame para ser
+atendido;
+3. Atenda o cliente;
+4. Finalize o atendimento;
+5. Verifique se ainda há senhas cadastradas no sistema;
+a) Se sim: Volte ao passo 2.
+b) Se não: Verifique o horário do expediente: Ainda há expediente?
+i) Se sim: Aguarde uma nova senha ser retirada e volte ao passo 3;
+
+- Faça um algoritmo para guardar livros dentro de uma caixa.
+
+1. Pegue uma caixa grande vazia;
+2. Abra a caixa;
+3. Verifique onde há livros;
+
+4. Separe os livros maiores e mais pesados e bote no fundo da caixa,
+organizando de maneira que não sobre muito espaço no fundo da caixa;
+5. Ainda há espaço?
+6. Se não: Feche a caixa com uma fita adesiva e escreva o nome livros em cima
+da caixa com um pincel permanente;
+7. Se ainda sobrar espaço: Separe os livros médios e coloque sob os livros
+grandes dentro da caixa de maneira que não sobre muitos espaços entre eles
+até que não tenha mais espaço para guarda-los;
+8. Ainda há espaço?
+9. Se não execute o passo 9;
+10.Se sim verifique se ainda há livros para serem colocados na caixa;
+11. Há livros?
+12.Se ainda sobrar livros coloque os livros pequenos sobre os demais de uma
+maneira que não sobre muitos espaços entre eles até que não tenha mais
+espaço para guarda-los;
+13.Se não houver mais livros, execute o passo 9;
+14.Execute a tarefa até que não haja mais espaço ou livros fora da caixa e
+execute o passo 9;
